@@ -1,3 +1,20 @@
+# SphinxOS Cryptanalysis Suite
+
+Quantum-inspired solutions for cryptographic vulnerabilities:
+
+- **Modular Discrete Logarithm Problem**
+- **Elliptic Curve Discrete Logarithm Problem**
+- **RSA Factorization with Quantum Circuit Visualization**
+
+## Installation
+
+```bash
+git clone https://github.com/Holedozer1229/SphinxOS-DLP-Solver.git
+cd SphinxOS-DLP-Solver
+pip install -r requirements.txt
+
+
+
 # SphinxOS-DLP-Solver
 SphinxOS Elliptical Curve Discrete Logarithm Problem Solver
 
