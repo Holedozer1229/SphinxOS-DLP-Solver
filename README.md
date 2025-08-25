@@ -1,3 +1,5 @@
+# This Code is for educational purpose only!!
+
 # SphinxOS Cryptanalysis Suite
 
 Quantum-inspired solutions for cryptographic vulnerabilities:
